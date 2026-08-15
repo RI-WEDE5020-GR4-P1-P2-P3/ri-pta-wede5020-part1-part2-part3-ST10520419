@@ -1,2 +1,89 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/PhWn_eB9)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=24302819&assignment_repo_type=AssignmentRepo)
+The Scent Plug Website
+
+ About the Website
+
+The Scent Plug is a small fragrance business that sells affordable
+perfumes and roll-ons.
+
+I created this website to give customers an easier way to view the
+products that are available, check prices and find information about
+the business. Customers can also use the website to contact the
+business and view the shopping cart and checkout pages.
+
+Website Pages
+
+My website has the following pages:
+
+ Home
+ Shop
+ Product Details
+ About Us
+ Contact Us
+ FAQ
+ Shopping Cart
+ Checkout
+
+Purpose of the Website
+
+The purpose of the website is to create an online presence for The
+Scent Plug and make it easier for customers to find information about
+the business and its products.
+
+The website is also meant to help advertise the products and make
+communication with customers easier.
+
+ Technologies Used
+
+I used the following technologies for this project:
+
+HTML
+ CSS
+JavaScript
+
+HTML5 is used to create the pages and organise the content of the website.
+
+CSS3 is used to style the website. I used it for the colours, layout,
+product sections, forms and to make the website work better on
+different screen sizes.
+
+JavaScript will be used to add more functionality to the website later
+in the project.
+
+Project Files
+
+The project has three main folders:
+
+css  contains the CSS file used for styling.
+images  contains the product images used on the website.
+js contains the JavaScript file.
+
+The HTML files are:
+
+index.html
+shop.html
+product.html
+about.html
+contact.html
+faq.html
+cart.html
+checkout.html
+
+Design
+
+I chose black, white and gold as the main colours because I wanted the
+website to have a simple and elegant look that suits a fragrance
+business.
+
+I also tried to keep the navigation simple so that users can easily
+move between the different pages.
+
+ Student Details
+
+Student Name:Otlotleng Mogomotsi
+Module: Web Development
+Module Code: WEDE5020
+
+Business Details
+
+Business Name:The Scent Plug
+Location:South Africa
